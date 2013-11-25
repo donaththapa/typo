@@ -14,6 +14,8 @@ module BloggerStructs
   end
 end
 
+def dumb
+end
 
 class BloggerApi < ActionWebService::API::Base
   inflect_names false
